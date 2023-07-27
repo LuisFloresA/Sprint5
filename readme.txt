@@ -2,9 +2,9 @@ Sprint #5, Desarrollo de aplicaciones web dinamicas con Java.
 
 Integrantes del Grupo Numero 7 y rutas de sus respectivos repositorios:
 
-	- Robinson Campos, https://github.com/llito1/(FALTA AGREGAR)
+	- Robinson Campos, https://github.com/llito1/
 	- Luis Flores, https://github.com/LuisFloresA/Sprint5
-	- Ignacio Ulloa, https://github.com/iulloarod/(FALTA AGREGAR)
+	- Ignacio Ulloa, https://github.com/iulloarod/sprint5
 
 Descripcion del Proyecto:
 
